@@ -2,3 +2,14 @@ Modellizzare la struttura di una tabella per memorizzare tutti i dati riguardant
 
 ## Nome tabella: Macchine (nome entità: Macchina)
 
+Colonne:
+
+-id
+-Marca
+-Modello
+-Posti
+-Porte
+-Anno
+-Carburante
+-Classe Euro
+-Proprietari
