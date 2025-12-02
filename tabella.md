@@ -19,7 +19,7 @@ Colonne:
 -Proprietari NOTNULL VARCHAR(2)
 -Per_Neopatentati NULL CHAR(2)
 -Peso_a_Vuoto NOTNULL VARCHAR(4)
--colore NOTNULL VARCHAR(20)
+-colore NOTNULL VARCHAR(28)
 -Descrizione NULL TEXT
 -disponibile_subito NULL CHAR(2)
 -Prezzo NOTNULL VARCHAR(6)
