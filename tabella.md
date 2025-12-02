@@ -11,5 +11,9 @@ Colonne:
 -Porte
 -Anno
 -Carburante
--Classe Euro
+-Classe_Euro
 -Proprietari
+-Per_Neopatentati
+-creato
+-aggiornato
+-disponibile_subito
