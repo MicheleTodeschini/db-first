@@ -4,16 +4,24 @@ Modellizzare la struttura di una tabella per memorizzare tutti i dati riguardant
 
 Colonne:
 
--id
--Marca
--Modello
--Posti
--Porte
--Anno
--Carburante
--Classe_Euro
--Proprietari
--Per_Neopatentati
--creato
--aggiornato
--disponibile_subito
+-id NOTNULL
+-Marca NOTNULL
+-Modello NOTNULL
+-Posti NULL
+-Porte NULL
+-Anno NOTNULL
+-Carburante NOTNULL
+-Classe_Euro NOTNULL
+-cambio NOTNULL
+-Trazione NOTNULL
+-Cavalli NOTNULL
+Cilindrata NOTNULL
+-Proprietari NOTNULL
+-Per_Neopatentati NULL
+-Peso_a_Vuoto NOTNULL
+-colore NOTNULL
+-Descrizione NULL
+-disponibile_subito NULL
+-Prezzo NOTNULL
+-creato DEFAULT(now())
+-aggiornato DEFAULT(now())
